@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ce14ab123d5ce2af","type":"text","text":"пока что лучшая вариация","x":-1015,"y":-534,"width":250,"height":100,"color":"2"},
+		{"id":"d394c320bc44a675","type":"text","text":"model = tf.keras.Sequential([  \n    tf.keras.layers.Dense(512, activation='PReLU', kernel_regularizer=l2(regularization_strength),  \n                          input_shape=(X_train.shape[1],)),  \n    tf.keras.layers.Dense(128, activation='relu', kernel_regularizer=l2(regularization_strength)),  \n    tf.keras.layers.Dense(64, activation='LeakyReLU', kernel_regularizer=l2(regularization_strength)),  \n    tf.keras.layers.Dense(32, activation='LeakyReLU', kernel_regularizer=l2(regularization_strength)),  \n    tf.keras.layers.Dense(16, activation='LeakyReLU', kernel_regularizer=l2(regularization_strength)),  \n    tf.keras.layers.Dense(1, activation='linear')  \n])  \noptimizer = tf.keras.optimizers.Nadam(learning_rate=0.001, beta_1=0.9, beta_2=0.999)  \n  \nmodel.compile(optimizer=optimizer, loss='mean_squared_error')","x":-1440,"y":-314,"width":1100,"height":420},
+		{"id":"46beb424a71792a6","x":-40,"y":-314,"width":920,"height":1114,"type":"text","text":"model = keras.Sequential([  \n    # keras.layers.Dense(128, activation='PReLU', kernel_regularizer=l2(regularization_strength),  \n    #                       input_shape=(X_train.shape[1],)),    # input_shape = (X_train.shape[1],)    keras.layers.Dense(32, activation='relu', kernel_regularizer=l2(regularization_strength), input_shape=(X_train.shape[1],)),  \n    # keras.layers.Dense(16, activation='relu', kernel_regularizer=l2(regularization_strength)),  \n    # keras.layers.Dense(64, activation='LeakyReLU', kernel_regularizer=l2(regularization_strength)),    keras.layers.Dense(16, activation='LeakyReLU', kernel_regularizer=l2(regularization_strength)),  \n    keras.layers.Dense(1, activation='linear')  \n])  \noptimizer = keras.optimizers.Nadam(learning_rate=0.001, beta_1=0.9, beta_2=0.999)"},
+		{"id":"add6e4917395a73c","x":384,"y":-534,"width":160,"height":100,"color":"5","type":"text","text":"лучшая\n"},
+		{"id":"45459446060128ff","x":1420,"y":-616,"width":250,"height":60,"color":"6","type":"text","text":""},
+		{"id":"ad8f772a31ecb2c4","x":1360,"y":-374,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6c56aa4a68a93c44","fromNode":"ce14ab123d5ce2af","fromSide":"bottom","toNode":"d394c320bc44a675","toSide":"top"},
+		{"id":"06decaff0abacfce","fromNode":"add6e4917395a73c","fromSide":"bottom","toNode":"46beb424a71792a6","toSide":"top"},
+		{"id":"047a3952104019e2","fromNode":"45459446060128ff","fromSide":"bottom","toNode":"ad8f772a31ecb2c4","toSide":"top"}
+	]
+}

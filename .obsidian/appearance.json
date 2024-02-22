@@ -1,0 +1,13 @@
+{
+  "accentColor": "#0fe3e6",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "editor_translucency"
+  ],
+  "theme": "system",
+  "cssTheme": "AnuPpuccin",
+  "translucency": true,
+  "monospaceFontFamily": "Arial Black",
+  "textFontFamily": "Arial Black",
+  "interfaceFontFamily": "Arial Black"
+}

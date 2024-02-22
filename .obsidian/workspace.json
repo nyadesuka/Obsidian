@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "ac4f39854124a5a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5940af437c97db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe953eb0b397c293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Планирование/2024-02-22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "690cf5b918479311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🩸Физиология/Гемостаз.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d2177386b0d9e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Планирование/На почитать.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d522f6544c51303c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab094df5a1603cf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c04cd0e8005acf",
+        "type": "tabs",
+        "dimension": 43.649193548387096,
+        "children": [
+          {
+            "id": "5964578aeb221090",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e808790985d28ecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "со смай",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41d14c63133888eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6f12937caf649fb",
+        "type": "tabs",
+        "dimension": 23.991935483870968,
+        "children": [
+          {
+            "id": "014c5f63fe5f2df3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "836a337bf215b20a",
+        "type": "tabs",
+        "dimension": 32.358870967741936,
+        "children": [
+          {
+            "id": "e4caee191e9fe9fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.50876998901367
+  },
+  "right": {
+    "id": "40ba7032d90049d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bdf0e4fc703d12d",
+        "type": "tabs",
+        "dimension": 59.07258064516129,
+        "children": [
+          {
+            "id": "0d3645f0978a43d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b3ced261fe5585",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e28485e7f1f4c70b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a7b7218cbcfe5572",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc556ffb6fb37388",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "aea2782cb28301a4",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0e53d7885502034f",
+        "type": "tabs",
+        "dimension": 40.92741935483871,
+        "children": [
+          {
+            "id": "2b8784df58488f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Планирование/Значки.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": true,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "workspaces:Пространства": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": true
+    }
+  },
+  "active": "d522f6544c51303c",
+  "lastOpenFiles": [
+    "Экономика/Дорога к рабству.md",
+    "Экономика",
+    "Экономика/Хайек, Фридрих Август фон.md",
+    "🩸Физиология/Гемостаз.md",
+    "📜Планирование/2024-02-22.md",
+    "2024-02-21.md",
+    "📜Планирование/2024-02-20.md",
+    "📜Планирование/На почитать.md",
+    "🩸Физиология/Расходники/Pasted image 20240222224854.png",
+    "🩸Физиология/Расходники/Pasted image 20240222223039.png",
+    "Pasted image 20240222223035.png",
+    "📜Планирование/Темы.md",
+    "📜Планирование/моделью.md",
+    "🔪Хирургия/2024-02-08.md",
+    "🔪Хирургия/Асептика.md",
+    "🔪Хирургия/Организация хирургической служб.md",
+    "🔪Хирургия/История хирургии.md",
+    "desktop.ini",
+    "📜Планирование/Значки.md",
+    "📜Планирование/2024-02-19.md",
+    "🧫Микра/Химический состав бактериальной клетки.md",
+    "🩸Физиология/🧠Физиология ЦНС/Глоссарий/Адиадохокинез.md",
+    "🧫Микра/микра 0210.md",
+    "🧫Микра/микра 30,10.md",
+    "🧫Микра/микра 27.11.23.md",
+    "🧫Микра/микра 16.10.md",
+    "🎭Разное/13.10.23.md",
+    "2024-02-18.md",
+    "📜Планирование/2024-02-17.md",
+    "📜Планирование/2024-02-16.md",
+    "🩸Физиология/ФИЗИОЛОГИЯ СИСТЕМЫ КРОВИ",
+    "CSS",
+    "🧫Микра/Бактериология",
+    "Lekcii_po_chastnoy_Mikrobiologii.pdf",
+    "Патанат/Патанат/Словарь",
+    "Патанат/Патанат/Расходники/Pasted image 20240211233652.png",
+    "Патанат/Патанат/Расходники/Pasted image 20240211233551.png",
+    "Патанат/Патанат/Расходники/Pasted image 20240211233419.png",
+    "Патанат/Патанат/Расходники/Pasted image 20240211233145.png",
+    "Патанат/Патанат/Расходники/Pasted image 20240211232915.png",
+    "Патанат/Патанат/Расходники/Pasted image 20240211232740.png",
+    "Патанат/Патанат/Расходники/Pasted image 20240211232525.png",
+    "Патанат/Патанат/Расходники",
+    "Патанат/Патанат",
+    "Патанат/Словарь",
+    "📈Трейдинг/Теханализ/Алгоритмизация для бота.canvas",
+    "Проект бота/Untitled.canvas",
+    "📈Трейдинг/Теханализ/Bot.canvas",
+    "📈Трейдинг/Теханализ/Без названия.canvas",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}
