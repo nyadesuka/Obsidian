@@ -50,8 +50,13 @@
             "id": "d522f6544c51303c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "вава.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -107,7 +112,7 @@
       {
         "id": "b6f12937caf649fb",
         "type": "tabs",
-        "dimension": 23.991935483870968,
+        "dimension": 23.991935483870964,
         "children": [
           {
             "id": "014c5f63fe5f2df3",
@@ -153,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "вава.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "вава.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "вава.md"
+              }
             }
           },
           {
@@ -242,18 +251,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
       "graph:Граф": false,
       "switcher:Меню быстрого перехода": true,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "workspaces:Пространства": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": true
+      "command-palette:Открыть палитру команд": true,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "d522f6544c51303c",
   "lastOpenFiles": [
+    "вава.md",
     "Экономика/Дорога к рабству.md",
     "Экономика",
     "Экономика/Хайек, Фридрих Август фон.md",
