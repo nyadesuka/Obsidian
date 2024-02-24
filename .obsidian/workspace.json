@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d522f6544c51303c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кейнс.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кейнс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кейнс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,8 +246,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d522f6544c51303c",
+  "active": "5964578aeb221090",
   "lastOpenFiles": [
+    "Экономика/Кейнс.md",
+    "Карта экономики.md",
     "1.md",
     "2024-02-23.md",
     "вава.md",
@@ -292,8 +279,6 @@
     "🧫Микра/микра 0210.md",
     "🧫Микра/микра 30,10.md",
     "🧫Микра/микра 27.11.23.md",
-    "🧫Микра/микра 16.10.md",
-    "🎭Разное/13.10.23.md",
     "🩸Физиология/ФИЗИОЛОГИЯ СИСТЕМЫ КРОВИ",
     "CSS",
     "🧫Микра/Бактериология",
