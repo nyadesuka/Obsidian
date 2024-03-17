@@ -6,7 +6,7 @@
   ],
   "theme": "system",
   "cssTheme": "AnuPpuccin",
-  "translucency": true,
+  "translucency": false,
   "monospaceFontFamily": "Arial Black",
   "textFontFamily": "Arial Black",
   "interfaceFontFamily": "Arial Black"
