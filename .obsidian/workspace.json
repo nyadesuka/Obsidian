@@ -24,12 +24,30 @@
             "id": "534d16d801a51ef9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "а.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ce64faff6e06c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 230.50876998901367
   },
   "right": {
     "id": "40ba7032d90049d0",
@@ -126,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-03-18.md"
+              }
             }
           },
           {
@@ -191,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +227,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "534d16d801a51ef9",
+  "active": "414c8c750c2e2193",
   "lastOpenFiles": [
+    "2024-03-18.md",
+    "а.md",
     "Простагландины.md",
+    "Pasted image 20240317205257.png",
     "Pasted image 20240317204812.png",
     "📜Планирование/На прочтение МАрт.md",
     "Гиперицин.md",
@@ -224,7 +248,6 @@
     "Pasted image 20240315210439.png",
     "Pasted image 20240315210418.png",
     "Pasted image 20240315210037.png",
-    "Pasted image 20240315205037.png",
     "Мелатонин.md",
     "Рецепторы мелатонина.md",
     "Сезонная ритмика и размножение.md",
@@ -242,7 +265,6 @@
     "Основные эффекты лептин.md",
     "Влияние грелина и лептина на пищевой центр.md",
     "Патофизиология боли.md",
-    "по физе.md",
     "Экономика",
     "desktop.ini",
     "🩸Физиология/ФИЗИОЛОГИЯ СИСТЕМЫ КРОВИ",
