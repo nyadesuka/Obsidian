@@ -1,27 +1,29 @@
 {
   "main": {
-    "id": "63f1bbbb118d1e3a",
+    "id": "ac4f39854124a5a9",
     "type": "split",
     "children": [
       {
-        "id": "ebadb71886b052d1",
+        "id": "1ba6318dffe0712b",
         "type": "tabs",
         "children": [
           {
-            "id": "2ddab254d0adc552",
+            "id": "b02c6ed2307dc1e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🍏Полезное/Реферат.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "План реферата.canvas",
+                "viewState": {
+                  "x": -285.2586085221882,
+                  "y": 115.67209490889707,
+                  "zoom": -0.6948263440390304
+                }
               }
             }
           },
           {
-            "id": "4d2a01e3519ab108",
+            "id": "534d16d801a51ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +36,7 @@
             }
           },
           {
-            "id": "7d17cddc00aca36f",
+            "id": "c18a95ed27d63c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,17 +49,28 @@
             }
           },
           {
-            "id": "ffe0f83d4e33d8c0",
+            "id": "be51581e1a6513bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "План реферата.canvas",
-                "viewState": {
-                  "x": -293.6289952983132,
-                  "y": -112.46367309266924,
-                  "zoom": -0.5035733421643575
-                }
+                "file": "Антидепрессанты.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2105dd404d099b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ссылка 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -68,69 +81,56 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad3b66b969f68f3a",
+    "id": "ab094df5a1603cf5",
     "type": "split",
     "children": [
       {
-        "id": "0ac88a1d2fa8b776",
+        "id": "c8c04cd0e8005acf",
         "type": "tabs",
-        "dimension": 42.07492795389048,
+        "dimension": 52.52016129032258,
         "children": [
           {
-            "id": "2d96e26de32471d0",
+            "id": "5964578aeb221090",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "e808790985d28ecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "f4a1e970d260c6d4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "нефть",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byCreatedTime"
-              }
-            }
-          },
-          {
-            "id": "79740abec8dd20c1",
+            "id": "41d14c63133888eb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "9254e26da865d0df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📈Трейдинг/Идеи.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       },
       {
-        "id": "91cd9fc60b63d337",
+        "id": "b6f12937caf649fb",
         "type": "tabs",
-        "dimension": 28.049951969260327,
+        "dimension": 20.161290322580644,
         "children": [
           {
-            "id": "36023ec4d5e39fda",
+            "id": "014c5f63fe5f2df3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -140,12 +140,12 @@
         ]
       },
       {
-        "id": "764dd9c282feaf7b",
+        "id": "836a337bf215b20a",
         "type": "tabs",
-        "dimension": 29.87512007684918,
+        "dimension": 27.318548387096776,
         "children": [
           {
-            "id": "f8ad46e2aa7f59ff",
+            "id": "e4caee191e9fe9fd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -156,19 +156,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5069465637207
+    "width": 230.50876998901367
   },
   "right": {
-    "id": "1db2fec0b345ea96",
+    "id": "40ba7032d90049d0",
     "type": "split",
     "children": [
       {
-        "id": "d907d8e55959a740",
+        "id": "7bdf0e4fc703d12d",
         "type": "tabs",
-        "dimension": 54.51055662188101,
         "children": [
           {
-            "id": "8256a205a94151fe",
+            "id": "0d3645f0978a43d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Антидепрессанты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b3ced261fe5585",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,7 +190,42 @@
             }
           },
           {
-            "id": "28a70c037e4472a8",
+            "id": "e28485e7f1f4c70b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Антидепрессанты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a7b7218cbcfe5572",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Антидепрессанты.md"
+              }
+            }
+          },
+          {
+            "id": "414c8c750c2e2193",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc556ffb6fb37388",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,145 +235,81 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "4226d7a8992a8fde",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "План реферата.canvas"
-              }
-            }
-          },
-          {
-            "id": "27c773c6c6581298",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "60f6a7d1fbad5e1f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "План реферата.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b7aa64cde3a5364b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "План реферата.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "3caba6b681ec6fdb",
-        "type": "tabs",
-        "dimension": 45.48944337811899,
-        "children": [
-          {
-            "id": "5309cb2aa8572d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Планирование/Модуль.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
+    "width": 383.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "switcher:Меню быстрого перехода": true,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
       "workspaces:Пространства": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": true,
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ffe0f83d4e33d8c0",
+  "active": "be51581e1a6513bc",
   "lastOpenFiles": [
-    "а.md",
+    "ссылка 1.md",
     "План реферата.canvas",
     "как формируется цена нефти.md",
-    "().md",
-    "торги нефтью urals.md",
-    "🍏Полезное/Реферат.md",
-    "Без названия.md",
-    "План реферата.md",
-    "desktop.ini",
-    "📜Планирование/Модуль.md",
+    "Антидепрессанты.md",
     "2024-03-18.md",
-    "Экономика/Кейнс.md",
-    "🩸Физиология/ЭКГ. Часть 2.md",
-    "🩸Физиология/ЭКГ. Часть 1.md",
-    "🩸Физиология/Сердце.md",
-    "🩸Физиология/НАРУШЕНИЯ РИТМА СЕРДЦА. ОБЩИЕ ПОЛОЖЕНИЯ.md",
-    "🩸Физиология/Pasted image 20240304022009.png",
-    "🩸Физиология/Pasted image 20240304014548.png",
-    "🩸Физиология/Pasted image 20240301234411.png",
-    "🩸Физиология/Pasted image 20240301233847.png",
-    "🩸Физиология/Pasted image 20240301233126.png",
-    "🧫Микра/Клепаем ответы.md",
-    "🧫Микра/Pasted image 20240304234344.png",
-    "🧫Микра/Pasted image 20240304234325.png",
-    "🧫Микра/Pasted image 20240304234306.png",
-    "🧫Микра/Pasted image 20240304234249.png",
-    "📜Планирование/На прочтение МАрт.md",
-    "📜Планирование/2024-03-06.md",
-    "соматотропин.md",
-    "по физе.md",
-    "кортикотропин.md",
-    "кишечник цифры физа.md",
-    "Экономика/Карта экономики.md",
-    "Экономика/Индикаторы.md",
-    "Феномен Остроумова - Бейлиса.md",
-    "ФИЗИОЛОГИЧЕСКАЯ ХАРАКТЕРИСТИКА МЕЛАТОНИНА.md",
+    "Простагландины.md",
+    "Патанат.md",
+    "Без названия.md",
+    "2024-03-02.md",
+    "торги нефтью urals.md",
+    "а.md",
     "Pasted image 20240317205257.png",
-    "🩸Физиология/ФИЗИОЛОГИЯ СИСТЕМЫ КРОВИ",
-    "🧫Микра/Бактериология",
+    "Pasted image 20240317204812.png",
+    "📜Планирование/На прочтение МАрт.md",
+    "Гиперицин.md",
+    "Pasted image 20240316001932.png",
+    "Pasted image 20240315213130.png",
+    "Мелатонин и инсулин.md",
+    "Антрахиноновые красители.md",
+    "Антрахиноны.md",
+    "Ализарин.md",
+    "Pasted image 20240315210151.png",
+    "Pasted image 20240315210522.png",
+    "Pasted image 20240315210507.png",
+    "Pasted image 20240315210439.png",
+    "Pasted image 20240315210418.png",
+    "Pasted image 20240315210037.png",
+    "Мелатонин.md",
+    "Рецепторы мелатонина.md",
+    "Сезонная ритмика и размножение.md",
+    "Механизмы транспорта глюкозы в клетку.md",
+    "ФИЗИОЛОГИЧЕСКАЯ ХАРАКТЕРИСТИКА МЕЛАТОНИНА.md",
+    "соматотропин.md",
+    "кортикотропин.md",
+    "haven.md",
+    "Феномен Остроумова - Бейлиса.md",
+    "Типы нефронов.md",
     "Экономика",
+    "desktop.ini",
+    "🩸Физиология/ФИЗИОЛОГИЯ СИСТЕМЫ КРОВИ",
     "CSS",
-    "💼Экзамен ЦБ/desktop.ini",
-    "🥼Пропедевтика/desktop.ini",
-    "🩸Физиология/👁Физиология анализаторов/Вкусовой анализатор/desktop.ini",
-    "📜Планирование/desktop.ini",
-    "Патанат/Расходники",
-    "📈Трейдинг/Теханализ/Без названия.canvas",
+    "🧫Микра/Бактериология",
+    "Lekcii_po_chastnoy_Mikrobiologii.pdf",
+    "Патанат/Патанат/Словарь",
+    "Патанат/Патанат/Расходники",
+    "Патанат/Патанат",
+    "Патанат/Словарь",
     "📈Трейдинг/Теханализ/Алгоритмизация для бота.canvas",
+    "Проект бота/Untitled.canvas",
     "📈Трейдинг/Теханализ/Bot.canvas",
-    "Проект бота/Untitled.canvas"
+    "📈Трейдинг/Теханализ/Без названия.canvas",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
   ]
 }
