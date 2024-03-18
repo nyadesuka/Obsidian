@@ -1,9 +1,7 @@
 {
   "accentColor": "#0fe3e6",
   "baseFontSize": 17,
-  "enabledCssSnippets": [
-    "editor_translucency"
-  ],
+  "enabledCssSnippets": [],
   "theme": "system",
   "cssTheme": "AnuPpuccin",
   "translucency": false,
